@@ -1,6 +1,8 @@
 /// <reference types="cypress" />
 import contrato from '../../contracts/produtos.contracts'
 
+//fazendo um teste de versão entere branchs do git
+
 
 
 
